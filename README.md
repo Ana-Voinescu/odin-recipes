@@ -1,8 +1,31 @@
-# odin-recipes
-This project is part of my journey into learning web development, starting with the basics of HTML.  
-The goal is to build a simple website that includes a main index page linking to a few recipe pages.
+# Odin Recipes
 
-While the website may not look visually appealing yet, the focus of this project is on building strong HTML fundamentals.  
-I will revisit this project later to apply CSS and improve its design.
+This project is part of my journey into learning web development through [The Odin Project](https://www.theodinproject.com/), focusing on building a multi-page website using **HTML** and **CSS**.
 
-Through this project, I aim to reinforce the concepts I’ve learned so far and gain confidence in creating structured and semantic HTML documents.
+## 🧁 Project Overview
+
+The website includes:
+- A **main index page** that links to 3 individual **recipe pages**.
+- Each recipe page contains a description, ingredients list, and step-by-step instructions.
+
+## 💡 What I Learned
+
+### HTML:
+- Semantic HTML structure (`<header>`, `<main>`, `<section>`, `<ul>`, `<p>`, etc.)
+- Internal linking between pages using `<a>` tags
+- Structuring image elements with `alt` text and setting attributes like `height` and `width`
+- Organizing files into folders (e.g., `/recipes`, `/images`)
+- Writing clean and readable code using indentation and comments
+
+### CSS:
+- Creating and linking an external stylesheet (`style.css`)
+- Styling text with `font-family`, `color`, `font-size`
+- Page layout using `text-align`, margins, and centering content
+- Applying background colors and basic typography
+- Using `class` and `id` selectors effectively
+- Overriding styles for specific elements
+- Understanding the **Box Model** and how it affects layout
+
+---
+
+Feel free to explore the recipes and view the code!
